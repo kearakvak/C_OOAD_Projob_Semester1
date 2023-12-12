@@ -1,0 +1,22 @@
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.exe.config
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.exe
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.pdb
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csprojResolveAssemblyReference.cache
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.FormStaff.resources
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.Properties.Resources.resources
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csproj.GenerateResource.Cache
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.exe
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.pdb
+D:\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.FormStudent.resources
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.exe.config
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.exe
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\bin\Debug\ProjectCSharpSQLServer.pdb
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csproj.AssemblyReference.cache
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.FormStaff.resources
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.FormStudent.resources
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.Properties.Resources.resources
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csproj.GenerateResource.cache
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.csproj.CoreCompileInputs.cache
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.exe
+D:\RUPP\year 4\OOAD\New folder\ProjectCSharpSQLServer\ProjectCSharpSQLServer\obj\Debug\ProjectCSharpSQLServer.pdb
